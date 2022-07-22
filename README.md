@@ -1,6 +1,6 @@
 # Scrimba - Notes App solution
 
-This is a solution to the [Notes App solo project on Scrimba](https://scrimba.com/learn/learnreact/). Scrimba helps you improve your coding skills by building realistic projects.
+This is a solution to the [Notes App project on Scrimba](https://scrimba.com/learn/learnreact/). Scrimba helps you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -30,6 +30,8 @@ This is a solution to the [Notes App solo project on Scrimba](https://scrimba.co
 ### Links
 
 - Solution URL: [@GitHub](https://github.com/xdelmo/notes-app)
+- Live Site URL: [@Netlify](https://notes-app-xdelmo.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/bf32737d-afbf-4360-a315-fec90aa06de0/deploy-status)](https://app.netlify.com/sites/notes-app-xdelmo/deploys)
 
 ### Getting Started with Create React App
 
